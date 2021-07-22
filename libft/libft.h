@@ -6,7 +6,7 @@
 /*   By: wollio <wollio@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/17 09:41:27 by wollio            #+#    #+#             */
-/*   Updated: 2021/07/07 21:52:35 by wollio           ###   ########.fr       */
+/*   Updated: 2021/07/22 09:43:47 by wollio           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,7 +25,7 @@ typedef struct s_list
 	struct s_list	*next;
 }					t_list;
 
-void	*ft_memset (void *ptr, char n, size_t a);
+void	*ft_memset(void *ptr, char n, size_t a);
 size_t	ft_strlcpy(char *dst, char *src, size_t dstsize);
 size_t	ft_strlen(const char *str);
 size_t	ft_strlcat(char *dst, char *src, size_t dstsize);
