@@ -7,9 +7,6 @@ The key to a successful ft_printf is a well-structured and good extensible code.
 
 Subject PDF: https://github.com/williamollio/ft_printf/blob/master/subject/printf.pdf
 
-# Grade
-[![wollio's 42Project Score](https://badge42.herokuapp.com/api/project/wollio/ft_printf)](https://github.com/williamollio)
-
 # Clone
 Open a terminal and run following command:
 ```
