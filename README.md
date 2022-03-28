@@ -5,7 +5,7 @@ Summary: This project is pretty straight forward. You will recode printf. Hopefu
 Introduction : The versatility of the printf function in C represents a great exercise in programming for us. This project is of moderate difficulty. It will enable you to discover variadic functions in C.
 The key to a successful ft_printf is a well-structured and good extensible code.
 
-Subject PDF: https://github.com/williamollio/ft_printf/blob/master/subject/printf.pdf
+[Subject PDF](https://github.com/williamollio/ft_printf/blob/master/subject/printf.pdf)
 
 # Clone
 Open a terminal and run following command:
